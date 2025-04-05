@@ -4,7 +4,7 @@
 I'm a passionate **Python Backend Developer** with experience in building scalable and efficient web applications.  
 I enjoy working with modern technologies and continuously improving my skills.  
 - 💬 Ask me about: **Python, Django, REST APIs, and backend development, and testing with Pytest**  
-- 📧 How to reach me: **abdumavlonovabdurahmon75@gmail.com**  
+- 📧 How to reach me: **usmonov0705@gmail.com**  
 
 ## 🔧 Skills & Technologies  
 
