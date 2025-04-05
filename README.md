@@ -1,67 +1,34 @@
-## Hi there 👋  
+# Hello, I'm [Usmanov Abdulaziz]! 🐍  
+I'm a Python backend developer with a passion for creating efficient and scalable web solutions.  
 
-## About Me  
-I'm a passionate **Python Backend Developer** with experience in building scalable and efficient web applications.  
-I enjoy working with modern technologies and continuously improving my skills.  
-- 💬 Ask me about: **Python, Django, REST APIs, and backend development, and testing with Pytest**  
-- 📧 How to reach me: **usmonov0705@gmail.com**  
+## 👨‍💻 About Me  
+- **Focus**: Backend Development  
+- **Technologies**: Python, Django, FastAPI, DRF, REST API, PostgreSQL, MySQL, Docker, GitHub, Telegram Bots, Web Parsing  
+- **Interests**: API development, containerization, automation, data extraction  
+- **Currently Learning**: GraphQL  
 
-## 🔧 Skills & Technologies  
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=dracula)  
 
-### Languages  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
+## 🌟 Key Projects  
+- **[Project Name]**: RESTful API built with FastAPI and Docker - [Link](https://github.com/username/repository)  
+- **[Project Name]**: Telegram Bot with Django and web parsing - [Link](https://github.com/username/repository)  
+- **[Project Name]**: E-commerce backend with Django, DRF, and PostgreSQL - [Link](https://github.com/username/repository)  
 
-### Frameworks & Libraries  
-<p>
-  <img src="https://img.shields.io/badge/-Django-green?style=flat-square&logo=django" />
-  <img src="https://img.shields.io/badge/-Django%20Rest%20Framework-red?style=flat-square&logo=django" />
-  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/-FastAPI-teal?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-Pytest-yellow?style=flat-square&logo=pytest" />
-  <img src="https://img.shields.io/badge/-Selenium-darkgreen?style=flat-square&logo=selenium" />
-</p>
+## 🛠 Tools & Skills  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![DRF](https://img.shields.io/badge/DRF-FF1709?style=flat&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)  
 
-### Tools & Platforms  
-<p>
-  <img src="https://img.shields.io/badge/-Git-red?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman" />
-  <img src="https://img.shields.io/badge/-PythonAnywhere-blue?style=flat-square&logo=python" />
-</p>
+## 📫 Get in Touch  
+- **Email**: [usmonov0705@gmail.com]  
+- **LinkedIn**: [linkedin.com/in/abdulazizusmonov]    
 
-### Databases  
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql" />
-</p>
-
-### IDEs & Editors  
-<p>
-  <img src="https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm" />
-</p>
-
-## 🌐 Socials  
-<p>
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://wakatime.com/">
-    <img src="https://img.shields.io/badge/-WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white" />
-  </a>
-</p>
+> "Building reliable systems with clean code is my craft!"  
