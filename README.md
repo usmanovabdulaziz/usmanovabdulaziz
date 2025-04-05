@@ -8,13 +8,13 @@ I'm a Python backend developer with a passion for creating efficient and scalabl
 - **Currently Learning**: GraphQL  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=dracula)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[usmanovabdulaziz]&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[usmanovabdulaziz]&layout=compact&theme=dracula)  
 
 ## 🌟 Key Projects  
-- **[Project Name]**: RESTful API built with FastAPI and Docker - [Link](https://github.com/username/repository)  
-- **[Project Name]**: Telegram Bot with Django and web parsing - [Link](https://github.com/username/repository)  
-- **[Project Name]**: E-commerce backend with Django, DRF, and PostgreSQL - [Link](https://github.com/username/repository)  
+- **[Project Name]**: RESTful API built with FastAPI and Docker - [Link](https://github.com/usmanovabdulaziz/repository)  
+- **[Project Name]**: Telegram Bot with Django and web parsing - [Link](https://github.com/usmanovabdulaziz/repository)  
+- **[Project Name]**: E-commerce backend with Django, DRF, and PostgreSQL - [Link](https://github.com/usmanovabdulaziz/repository)  
 
 ## 🛠 Tools & Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -28,7 +28,7 @@ I'm a Python backend developer with a passion for creating efficient and scalabl
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)  
 
 ## 📫 Get in Touch  
-- **Email**: [usmonov0705@gmail.com]  
-- **LinkedIn**: [linkedin.com/in/abdulazizusmonov]    
+![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:[usmonov0705@gmail.com])  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/abdulazizusmonov)  
 
 > "Building reliable systems with clean code is my craft!"  
