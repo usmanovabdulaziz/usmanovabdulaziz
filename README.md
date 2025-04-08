@@ -1,6 +1,6 @@
 # Hello, I'm Abdulaziz Usmanov!
 I'm a Python backend developer with a passion for building efficient web solutions.  
-🛜 Currently working on  
+🛜 Currently working on Nextin
 
 👨‍💻 Developing backend systems since 2023  
 
