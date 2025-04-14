@@ -12,7 +12,7 @@ I'm a Python backend developer with a passion for building efficient web solutio
 - **Interests**: API development, containerization, automation, data extraction  
   
 ## 🌟 Key Projects  
-- **[Project Name]**: Realtime chat with Websocckets, django-channels and htmx - [Link](https://github.com/usmanovabdulaziz/ChatApp)  
+- **[Project Name]**: Realtime chat with Websocckets, Redis, django-channels and htmx - [Link](https://github.com/usmanovabdulaziz/ChatApp)  
 - **CryptoParser**: Telegram Bot with Python and web parsing - [Link](https://github.com/usmanovabdulaziz/CryptoParser)  
 - **[Project Name]**: E-commerce backend with Django, DRF, and PostgreSQL - [Link](https://github.com/usmanovabdulaziz/repository)  
 
